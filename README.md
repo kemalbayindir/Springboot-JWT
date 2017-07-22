@@ -15,7 +15,7 @@ simple constructor method, or you have another solution please update me too.
 
 Step 1 : Login & Get token
 ---------------------------
-You should first post to login class a basic LoginMember object (i used postman for this)
+You should first post a basic LoginMember object to auth/login method (i used postman for this)
 
 ![alt text](https://raw.githubusercontent.com/kemalbayindir/Springboot-JWT/master/screenshots/post.png)
 
